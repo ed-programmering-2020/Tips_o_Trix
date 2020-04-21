@@ -16,7 +16,7 @@ namespace TeamCSVfix {
 			if (args.Length < 1) return; 
 
 
-			string sökväg = args[0]; // Filen ligger i mappen  \bin\Debug
+			string sökväg = args[0]; 
 			if (File.Exists(sökväg)) {
 				StreamReader sr = new StreamReader(sökväg,Encoding.UTF8);
 				string l = sr.ReadLine();

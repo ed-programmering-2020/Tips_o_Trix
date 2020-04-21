@@ -52,8 +52,6 @@ namespace TeamCSVfix {
 				if (bokstav[i] == ',') bokstav[i] = '\t';
 				if (bokstav[i] == '¤' ) bokstav[i] = ',';
 				if (bokstav[i] == '{') bokstav[i] = ' ';
-
-
 			}
 			return new string(bokstav);
 		}

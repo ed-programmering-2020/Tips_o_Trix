@@ -27,6 +27,7 @@ namespace TeamCSVfix {
 				sr = new StreamReader(sökväg);
 				l = sr.ReadToEnd();
 				l = replaceComma(l);
+
 				//Console.WriteLine(l);
 				string filename = sökväg.Substring(sökväg.LastIndexOf('.'));
 				string path = sökväg.Substring(0,sökväg.LastIndexOf('.'));

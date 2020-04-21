@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tips_o_Trix", "Tips_o_Trix\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamCSVfix", "TeamCSVfix\TeamCSVfix.csproj", "{C8BADC02-5B4F-4300-8435-44100AD7620F}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{0850F082-A1E1-4856-9B45-C936F7D32EA7}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,8 +21,6 @@ Global
 		{C8BADC02-5B4F-4300-8435-44100AD7620F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8BADC02-5B4F-4300-8435-44100AD7620F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8BADC02-5B4F-4300-8435-44100AD7620F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0850F082-A1E1-4856-9B45-C936F7D32EA7}.Debug|Any CPU.ActiveCfg = Debug
-		{0850F082-A1E1-4856-9B45-C936F7D32EA7}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
